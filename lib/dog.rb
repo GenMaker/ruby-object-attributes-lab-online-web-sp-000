@@ -8,5 +8,5 @@ class Dog
     @dogs_name
   end
 
-  def name_setter()
+=
 end
